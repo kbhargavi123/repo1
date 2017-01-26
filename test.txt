@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 161A-4FF3
+
+ Directory of C:\Users\cnubdn\Desktop\myproject
+
+01/25/2017  05:50 PM    <DIR>          .
+01/25/2017  05:50 PM    <DIR>          ..
+01/25/2017  05:50 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  399,801,589,760 bytes free
